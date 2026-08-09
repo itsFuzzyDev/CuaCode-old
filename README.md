@@ -6,6 +6,7 @@ this is an old version of 'cuacode', this version has been renamed and is being 
 
 
 
+# something something if you want to actually read:
 CLI agent for computer use and more.
 > [!WARNING]
 > This is still a work in progress, use at your own risk (not a virus, just not my problem if you mess up your computer lol).
